@@ -1,0 +1,33 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  
+  height: 75px;
+  padding: 1rem;
+  color: white;
+  background: teal;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home{
+  color: white;
+}
+
+a {
+  text-decoration:none;
+  color: black;
+}
+
+body {
+  padding-top: 75px;
+  background: white;
+}
+
+* {
+  box-sizing: border-box;
+}
