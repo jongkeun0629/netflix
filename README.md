@@ -8,4 +8,4 @@
 
 기능 및 화면 구현은 php, Html, JavaScript, CSS를 사용하여 Visual Studio Code에서 작업하였고 DB 구현 및 연동은 SQL문을 사용하여 HeidiSQL에서 작업하였습니다.
 
-XAMPP를 사용하여 Apache와 MYSQL을 관리하여 웹사이트에서 확인할 수 있도록 연동하였습니다.
+XAMPP를 사용하여 Apache와 MariaDB를 관리하여 웹사이트에서 확인할 수 있도록 연동하였습니다.
